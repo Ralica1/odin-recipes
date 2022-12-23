@@ -1,28 +1,28 @@
-*{
-    font-family:  Arial, Helvetica, sans-serif;
+* {
+  font-family: Arial, Helvetica, sans-serif;
 }
 
-body{
-    background-color: lightgrey;
+body {
+  background-color: lightgrey;
 }
 
-h1{
-    color: rgb(252, 122, 0);
+h1 {
+  color: rgb(252, 122, 0);
 }
 
-h3{
-    color:rgb(250, 152, 60)
+h3 {
+  color: rgb(250, 152, 60);
 }
 
-.headImg{
-    width: 20rem;
-    height: 15rem;
-    border-radius: 5%;
-    border: solid;
-    border-color: rgb(255, 255, 255);
+.headImg {
+  width: 20rem;
+  height: 15rem;
+  border-radius: 5%;
+  border: solid;
+  border-color: rgb(255, 255, 255);
 }
 
-a{
-    font-size: larger;
-    font-weight: 800;
+a {
+  font-size: larger;
+  font-weight: 800;
 }
